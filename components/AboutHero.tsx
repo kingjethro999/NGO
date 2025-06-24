@@ -14,10 +14,10 @@ const AboutHero = () => {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              About <span className="text-primary-600">Hope Foundation</span>
+              About <span className="text-primary-600">Nwaokwu Care Foundation</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              Founded in 2010, Hope Foundation has been dedicated to creating positive change in communities worldwide. We believe that every individual deserves access to education, healthcare, and opportunities for a better future.
+              Founded in 2010, Nwaokwu Care Foundation (NCF) has been dedicated to creating positive change in communities worldwide. We believe that every individual deserves access to education, healthcare, and opportunities for a better future.
             </p>
             <div className="grid grid-cols-3 gap-6">
               <div className="text-center">

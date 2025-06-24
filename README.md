@@ -1,6 +1,6 @@
-# Hope Foundation - NGO Website
+# NWAOKWU CARE FOUNDATION (NCF)
 
-A modern, responsive website for Hope Foundation, built with Next.js, TypeScript, and Tailwind CSS. This website showcases the organization's mission, programs, and provides a donation platform to support their humanitarian efforts.
+A modern, responsive website for NWAOKWU CARE FOUNDATION (NCF), built with Next.js, TypeScript, and Tailwind CSS. This website showcases the organization's mission, programs, and provides a donation platform to support their humanitarian efforts.
 
 ## 🌟 Features
 
@@ -36,7 +36,7 @@ A modern, responsive website for Hope Foundation, built with Next.js, TypeScript
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd NGO
+   cd NCF
    ```
 
 2. **Install dependencies**
@@ -62,7 +62,7 @@ npm start
 ## 📁 Project Structure
 
 ```
-NGO/
+NCF/
 ├── app/                    # Next.js App Router pages
 │   ├── about/             # About page
 │   ├── programs/          # Programs page
@@ -161,8 +161,8 @@ This project is licensed under the MIT License.
 ## 📞 Support
 
 For support or questions about this website, please contact:
-- Email: info@hopefoundation.org
-- Website: [hopefoundation.org](https://hopefoundation.org)
+- Email: info@ncfoundation.org
+- Website: [ncfoundation.org](https://ncfoundation.org)
 
 ## 🙏 Acknowledgments
 
@@ -173,4 +173,4 @@ For support or questions about this website, please contact:
 
 ---
 
-**Made with ❤️ for Hope Foundation** 
+**Made with ❤️ for NWAOKWU CARE FOUNDATION (NCF)** 
