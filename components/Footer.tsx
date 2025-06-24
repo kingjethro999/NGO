@@ -14,9 +14,9 @@ const Footer = () => {
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-accent-500 rounded-lg flex items-center justify-center">
-                <Heart className="w-6 h-6 text-white" />
+                <span className="text-white font-bold text-sm">NCF</span>
               </div>
-              <span className="text-xl font-bold">Hope Foundation</span>
+              <span className="text-xl font-bold">Nwaokwu Care</span>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
               Dedicated to creating positive change in communities worldwide through education, healthcare, and sustainable development initiatives.
@@ -24,7 +24,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-gray-300">
                 <Mail className="w-4 h-4" />
-                <span>info@hopefoundation.org</span>
+                <span>info@nwaokwucare.org</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <Phone className="w-4 h-4" />
@@ -80,7 +80,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-          © {currentYear} Hope Foundation. All rights reserved.
+          © {currentYear} Nwaokwu Care Foundation. All rights reserved.
         </div>
       </div>
     </footer>
